@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 353710f957f18d14aa21649c6ab02ad3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: back_wing_left_01
+    100004: back_wing_left_02
+    100006: back_wing_right_01
+    100008: back_wing_right_02
+    100010: bat
+    100012: bat_alpha
+    100014: body_bat
+    100016: butt_bat
+    100018: ear_left_01
+    100020: ear_left_02
+    100022: ear_right_01
+    100024: ear_right_02
+    100026: eye_l_bat
+    100028: eye_r_bat
+    100030: face_bat
+    100032: head_bat
+    100034: jaw
+    100036: left_paw_01
+    100038: left_paw_02
+    100040: left_shoulder_bat
+    100042: left_wing_01_bat
+    100044: left_wing_02_bat
+    100046: mouth_corner_left
+    100048: mouth_corner_right
+    100050: right_paw_01
+    100052: right_paw_02
+    100054: right_shoulder_bat
+    100056: right_wing_01_bat
+    100058: right_wing_02_bat
+    100060: root_bat
+    100062: tail_01
+    100064: tail_02
+    400000: //RootNode
+    400002: back_wing_left_01
+    400004: back_wing_left_02
+    400006: back_wing_right_01
+    400008: back_wing_right_02
+    400010: bat
+    400012: bat_alpha
+    400014: body_bat
+    400016: butt_bat
+    400018: ear_left_01
+    400020: ear_left_02
+    400022: ear_right_01
+    400024: ear_right_02
+    400026: eye_l_bat
+    400028: eye_r_bat
+    400030: face_bat
+    400032: head_bat
+    400034: jaw
+    400036: left_paw_01
+    400038: left_paw_02
+    400040: left_shoulder_bat
+    400042: left_wing_01_bat
+    400044: left_wing_02_bat
+    400046: mouth_corner_left
+    400048: mouth_corner_right
+    400050: right_paw_01
+    400052: right_paw_02
+    400054: right_shoulder_bat
+    400056: right_wing_01_bat
+    400058: right_wing_02_bat
+    400060: root_bat
+    400062: tail_01
+    400064: tail_02
+    2100000: micro_bat
+    2100002: micro_bat_transp
+    4300000: bat
+    4300002: bat_alpha
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: bat
+    13700002: bat_alpha
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
